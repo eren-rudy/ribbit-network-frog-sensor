@@ -8,5 +8,8 @@ There have been two major versions of the Frog Sensor to date:
 
 See each folder linked above for the relevant design files, CAD, and assembly instructions!
 
+## Solar-powered Sensor Development
+Prototyping is currently in progress to assess the possibility of taking the Frog Sensor off the grid. Check out the design progress [here](solar).
+
 ## Main Readme
 [Head back to the main readme for more info!](https://github.com/Ribbit-Network/ribbit-network-sensor)
